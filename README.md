@@ -11,3 +11,7 @@ Resilient
 Powerful logic based system built on smart contracts to avoid human misjudgment and the intentional violation
 
 #TODO
+
+A fiat-pegged stablecoin backed by assets of excess value and loaned to clients based on their needs
+Stake your asset to start earning continuous and stable daily rewards. One-touch stake. No paperwork. No hassle.
+A cryptocurrency that empowers a sustainable Protocol DeFi (Decentralized Financial) ecosystem.
